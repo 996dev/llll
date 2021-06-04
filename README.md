@@ -6,6 +6,6 @@ npm install -g @vue/cli
 ### 创建 Vue 3.0 版本的项目 vue create my-app
 
 ### 项目引入 Element Plus
-cd my-app
-vue add element-plus
-npm run serve
+1. ```cd my-app```
+2. ```vue add element-plus```
+3. ```npm run serve```
